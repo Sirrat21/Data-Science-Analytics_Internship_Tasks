@@ -10,21 +10,27 @@ Exploring and Visualizing the Iris Dataset using Python
 The main objective of this project is to understand how to load, explore, summarize, and visualize a dataset using Python libraries such as pandas, matplotlib, and seaborn.
 
 🔹 Dataset
-Name: Iris Dataset
-Format: CSV
-Description:
+
+**Name:** Iris Dataset
+
+**Format:** CSV
+
+**Description:**
 The dataset contains measurements of iris flowers including:
-Sepal Length
-Sepal Width
-Petal Length
+1. Sepal Length
+
+2. Sepal Width
+3. Petal Length
 Petal Width
 Species (Setosa, Versicolor, Virginica)
+
 🔹 Tools & Libraries Used
 Google Colab
 Python
 pandas
 matplotlib
 seaborn
+
 🔹 Steps Performed
 Data Loading
 Uploaded and loaded the dataset using pandas
@@ -38,11 +44,13 @@ Data Visualization
 Scatter Plot: To analyze relationships between variables
 Histogram: To study data distribution
 Box Plot: To detect outliers and understand spread
+
 🔹 Key Learnings
 How to load and inspect datasets using pandas
 Understanding dataset structure and statistics
 Creating meaningful visualizations
 Identifying patterns, relationships, and outliers in data
+
 🔹 Conclusion
 
 This project provided hands-on experience in data exploration and visualization. It helped in understanding how graphical representations can simplify complex data and reveal useful insights.
