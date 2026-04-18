@@ -71,3 +71,37 @@ This project provided hands-on experience in data exploration and visualization.
 •	Run the provided Python code step by step
 
 •	View outputs and visualizations
+
+
+
+**Task 3: Customer Churn Prediction**
+**Objective**
+ 
+ Predict whether a customer will leave the bank using machine learning.
+
+**Dataset**
+
+Churn Modelling Dataset with customer details like age, gender, balance, and activity status.
+**Target:** Exited (0 = Stay, 1 = Churn)
+
+**Preprocessing**
+
+•	Removed unnecessary columns 
+•	Encoded categorical features (Gender, Geography) 
+•	Split data into training and testing sets 
+•	Applied feature scaling 
+
+**Model Used**
+•	Random Forest Classifier 
+**Evaluation**
+•	Accuracy Score 
+•	Confusion Matrix 
+**Key Insights**
+•	Important factors affecting churn: 
+o	Age 
+o	Balance 
+o	Activity status 
+
+**Conclusion**
+Random Forest effectively predicts customer churn and helps identify key factors influencing customer retention.
+
