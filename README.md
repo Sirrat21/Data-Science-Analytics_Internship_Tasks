@@ -73,6 +73,58 @@ This project provided hands-on experience in data exploration and visualization.
 •	View outputs and visualizations
 
 
+**Task 2: Loan Default Prediction**
+**Objective**
+The goal of this project is to predict whether a loan applicant is likely to default on a loan using machine learning techniques.
+________________________________________
+**Dataset**
+•	Source: Kaggle Loan Prediction Dataset
+•	The dataset contains applicant details such as:
+o	Applicant Income
+o	Loan Amount
+o	Education
+o	Credit History
+o	Loan Status (Target Variable)
+________________________________________
+**Technologies Used**
+•	Python 
+•	Pandas & NumPy (Data Processing)
+•	Matplotlib & Seaborn (Visualization)
+•	Scikit-learn (Machine Learning)
+________________________________________
+Project Workflow
+1.	Data Preprocessing
+•	Handled missing values:
+o	Numerical → Filled with median
+o	Categorical → Filled with mode
+•	Converted categorical variables using One-Hot Encoding
+________________________________________
+**Exploratory Data Analysis (EDA)**
+•	Visualized:
+o	Loan Amount Distribution
+o	Income vs Loan Status
+o	Education vs Loan Status
+•	Identified patterns and relationships between features
+________________________________________
+**Model Building**
+•	Applied classification algorithms:
+o	Logistic Regression
+o	Decision Tree
+________________________________________
+**Model Evaluation**
+•	Accuracy Score used to measure performance
+•	Confusion Matrix used to analyze predictions:
+o	True Positives
+o	True Negatives
+o	False Positives
+o	False Negatives
+________________________________________
+Results
+•	The model was able to predict loan default with reasonable accuracy
+•	Confusion matrix provided insights into classification errors
+•	Model can assist in identifying high-risk applicants
+
+
 
 
 **Task 3: Customer Churn Prediction**
